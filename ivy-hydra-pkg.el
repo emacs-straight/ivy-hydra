@@ -1,2 +1,2 @@
-;; Generated package description from ivy-hydra.el  -*- no-byte-compile: t -*-
-(define-package "ivy-hydra" "0.15.1.0.20260212.144537" "Additional key bindings for Ivy" '((emacs "24.5") (ivy "0.15.1") (hydra "0.14.0")) :commit "e0b804c426e38cf7c7895ddadeac425822eef353" :authors '(("Oleh Krehel" . "ohwoeowho@gmail.com")) :maintainer '("Basil L. Contovounesios" . "basil@contovou.net") :keywords '("convenience") :url "https://github.com/abo-abo/swiper")
+;; Generated package description from ivy-hydra.el  -*- no-byte-compile: t; lexical-binding:t -*-
+(define-package "ivy-hydra" "0.15.1.0.20260213.120432" "Additional key bindings for Ivy" '((emacs "24.5") (ivy "0.15.1") (hydra "0.14.0")) :commit "e0aeea46f684a6dfce4af674018852079020de88" :authors '(("Oleh Krehel" . "ohwoeowho@gmail.com")) :maintainer '("Basil L. Contovounesios" . "basil@contovou.net") :keywords '("convenience") :url "https://github.com/abo-abo/swiper")
